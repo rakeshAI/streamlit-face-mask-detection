@@ -1,1 +1,1 @@
-# streamlit-face-mask-detection
+# streamlit-face-mask-detection [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/rakeshai/streamlit-face-mask-detection/main/st_facemaskdetection.py)
